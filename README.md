@@ -18,3 +18,5 @@ go run main.go fw -help
 ## -help komutu
 ![4](https://github.com/BarisKaya09/Find-Word/assets/80157457/fc762779-1cf3-4be1-b356-3971c5c20cf1)
 
+## Todo 
+- Log function fix
