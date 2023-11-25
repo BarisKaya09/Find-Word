@@ -20,3 +20,4 @@ go run main.go fw -help
 
 ## Todo 
 - Log function fix
+- Add Remove function
